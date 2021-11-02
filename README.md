@@ -43,6 +43,10 @@
 
 </div>
 
+![IMG-4729](https://user-images.githubusercontent.com/57984890/139820070-b00b00cd-ebf6-406b-aca8-ac461904ea92.jpg)
+[CV_김규찬_최신.pdf](https://github.com/online2/NavgationBarUtils/files/7459383/CV_._.pdf)
+![CV_김규찬_최신.pdf](https://github.com/online2/NavgationBarUtils/files/7459383/CV_._.pdf)
+
 ## Experiences
 
 ## Awards & Certificates
