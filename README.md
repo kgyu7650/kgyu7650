@@ -36,16 +36,20 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World!👋&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
-  
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:schadenlim@gmail.com)
 
-</br>
+  ![IMG-4729](https://user-images.githubusercontent.com/57984890/139820070-b00b00cd-ebf6-406b-aca8-ac461904ea92.jpg)
+
+  </br>
+
+  [CV_김규찬_최신.pdf](https://github.com/online2/NavgationBarUtils/files/7459383/CV_._.pdf)
+
+  </br>
+
+  [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:civil7650@gmail.com)
+
+  </br>
 
 </div>
-
-![IMG-4729](https://user-images.githubusercontent.com/57984890/139820070-b00b00cd-ebf6-406b-aca8-ac461904ea92.jpg)
-[CV_김규찬_최신.pdf](https://github.com/online2/NavgationBarUtils/files/7459383/CV_._.pdf)
-![CV_김규찬_최신.pdf](https://github.com/online2/NavgationBarUtils/files/7459383/CV_._.pdf)
 
 ## Experiences
 
