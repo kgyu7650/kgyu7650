@@ -37,11 +37,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World!👋&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
 
-  ![김규찬](https://user-images.githubusercontent.com/57984890/140016558-93179e91-3225-4024-908f-56fa0e6ff8ec.jpg)
+  ![김규찬](https://user-images.githubusercontent.com/57984890/140884120-6521733f-2099-4be8-acf8-6dbe359b64f8.jpg)
 
   </br>
 
-  [CV_김규찬](https://github.com/ros-planning/navigation/files/7490111/CV_._.pdf)
+  [CV_김규찬](https://github.com/ros-planning/navigation/files/7502931/CV_._.pdf)
 
   </br>
 
