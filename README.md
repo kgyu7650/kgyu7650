@@ -41,7 +41,7 @@
 
   </br>
 
-  [CV_김규찬](https://github.com/ros-planning/navigation/files/7502931/CV_._.pdf)
+  [CV_김규찬](https://github.com/ros-planning/navigation/files/7503008/CV_._.pdf)
 
   </br>
 
