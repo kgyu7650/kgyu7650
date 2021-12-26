@@ -41,7 +41,7 @@
 
   </br>
 
-  [CV_김규찬](https://github.com/denisidoro/navi/files/7519010/CV_._.pdf)
+  [CV_김규찬](https://github.com/solomonshalom/hacktoberfest/files/7776800/CV_._.pdf)
 
   </br>
 
