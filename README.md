@@ -37,11 +37,15 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World!👋&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
 
-  ![김규찬](https://user-images.githubusercontent.com/57984890/140884120-6521733f-2099-4be8-acf8-6dbe359b64f8.jpg)
+  ![김규찬](https://user-images.githubusercontent.com/57984890/148633254-2df58e70-2bef-4bbb-a5d6-d92da8789551.jpg)
 
   </br>
 
-  [CV_김규찬](https://github.com/solomonshalom/hacktoberfest/files/7776800/CV_._.pdf)
+  [CV_KIMGYUCHAN](https://github.com/denisidoro/navi/files/7832625/CV_KIMGYUCHAN.xlsx.pdf)
+
+  </br>
+
+  [Portfolio_KIMGYUCHAN](https://github.com/denisidoro/navi/files/7832628/_.pdf)
 
   </br>
 
