@@ -37,12 +37,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World!👋&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
 
-  ![김규찬](https://user-images.githubusercontent.com/57984890/148633254-2df58e70-2bef-4bbb-a5d6-d92da8789551.jpg)
-
-  </br>
-
   [CV](https://github.com/qmk/qmk_firmware/files/7835163/CV_KIMGYUCHAN.pdf)
-
+  
   </br>
 
   [Portfolio](https://github.com/qmk/qmk_firmware/files/7835168/_.pdf)
@@ -50,6 +46,10 @@
   </br>
 
   [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:civil7650@gmail.com)
+  
+  </br>
+
+  ![김규찬](https://user-images.githubusercontent.com/57984890/148633254-2df58e70-2bef-4bbb-a5d6-d92da8789551.jpg)
 
   </br>
 
