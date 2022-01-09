@@ -41,11 +41,11 @@
 
   </br>
 
-  [CV](https://github.com/denisidoro/navi/files/7832639/CV_KIMGYUCHAN.xlsx.pdf)
+  [CV](https://github.com/qmk/qmk_firmware/files/7835163/CV_KIMGYUCHAN.pdf)
 
   </br>
 
-  [Portfolio](https://github.com/denisidoro/navi/files/7832628/_.pdf)
+  [Portfolio](https://github.com/qmk/qmk_firmware/files/7835164/_.pdf)
 
   </br>
 
