@@ -45,7 +45,7 @@
 
   </br>
 
-  [Portfolio]](https://github.com/qmk/qmk_firmware/files/7835168/_.pdf)
+  [Portfolio](https://github.com/qmk/qmk_firmware/files/7835168/_.pdf)
 
   </br>
 
