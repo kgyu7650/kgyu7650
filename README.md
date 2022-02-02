@@ -37,8 +37,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World!👋&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
 
-  [CV](https://github.com/react-navigation/react-navigation/files/7983887/CV_KIMGYUCHAN.xlsx.pdf)
-  
+  [CV](https://github.com/denisidoro/navi/files/7983916/CV_KIMGYUCHAN.xlsx.pdf)
   </br>
 
   [Portfolio](https://github.com/qmk/qmk_firmware/files/7835168/_.pdf)
