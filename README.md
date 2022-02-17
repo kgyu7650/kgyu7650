@@ -37,10 +37,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World!👋&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
 
-  [CV](https://github.com/shihanng/dotfiles/files/7990889/CV_KIMGYUCHAN.xlsx.pdf)
+  [CV](https://github.com/jumpserver/jumpserver/files/8085483/CV_KIMGYUCHAN.xlsx.pdf)
   </br>
 
-  [Portfolio](https://github.com/qmk/qmk_firmware/files/7835168/_.pdf)
+  [Portfolio](https://github.com/jumpserver/jumpserver/files/8085481/_.pdf)
 
   </br>
 
