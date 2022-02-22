@@ -43,10 +43,6 @@
 
   [Portfolio](https://github.com/jumpserver/jumpserver/files/8085481/_.pdf)
 
-  </br>
-
-  [Persnal Project A. DataMining기반의 신사업지 제안](https://github.com/stevemao/github-issue-templates/files/8104093/Project.A.DataMining.pdf)
-
 
   </br>
 
